@@ -1,3 +1,6 @@
+# Notice
+Use [mod_authn_jwt](https://github.com/lgrosz/mod_authn_jwt) instead.
+
 # General
 
 A Lighty authorization module for general token authentication.
